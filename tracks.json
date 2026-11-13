@@ -1,0 +1,287 @@
+[
+  {
+    "name": "PV615 - Melancholic",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv615_melancholic/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/649ff1bfb9adef473a6b4a83f9320be20245efee.mp3"
+  },
+  {
+    "name": "PV616 - Unhappy Refrain",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv616_unhappy_refrain/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/9f3d8f7e1b057b3b9e570400c0036ecc57ea9246.mp3"
+  },
+  {
+    "name": "PV616 - Unhappy Refrain - PV616_UHR_P1_00",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv616_unhappy_refrain_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/9f3d8f7e1b057b3b9e570400c0036ecc57ea9246.mp3"
+  },
+  {
+    "name": "PV616 - Unhappy Refrain - PV616_UHR_P2_00",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv616_unhappy_refrain_/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/9f3d8f7e1b057b3b9e570400c0036ecc57ea9246.mp3"
+  },
+  {
+    "name": "PV619 - Tengaku",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv619_tengaku/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/3202bce92f9116de36b834479eda57b73678637f.mp3"
+  },
+  {
+    "name": "PV621 - Nostalogic",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv621_nostalogic/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/ea6e8349988791bfe244b6b80632ed9f41228f94.mp3"
+  },
+  {
+    "name": "PV622 - Stay with me",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv622_stay_with_me/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/1a400359ce8928e2f30d3ef7ff92a17850734b53.mp3"
+  },
+  {
+    "name": "PV623 - Sadistic Music Factory (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv623_sadistic_music_f/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv623_sadistic_music_f/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/c4eedbcc4923a34817d480bca986e1aaf9efcbcc.mp3"
+  },
+  {
+    "name": "PV626 - Weekender Girl",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv626_weekender_girl/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/1078c7b37f6960fbe917f5e71541f164927b8ec7.mp3"
+  },
+  {
+    "name": "PV630 - Black Rock Shooter",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv630_black_rock_shoot/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/a5a2338ab4cc643c84e694d45330b279e4190892.mp3"
+  },
+  {
+    "name": "PV630 - Black Rock Shooter - PV630_BRS_P2_00",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv630_black_rock_shoot/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/a5a2338ab4cc643c84e694d45330b279e4190892.mp3"
+  },
+  {
+    "name": "PV637 - Sebonzakura -F- Edition (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/53d5ee26576c56ffecac09f82cb02bb511dd77ed.mp3"
+  },
+  {
+    "name": "PV637 - Sebonzakura -F- Edition (0+10) (2)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/main_2.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/53d5ee26576c56ffecac09f82cb02bb511dd77ed.mp3"
+  },
+  {
+    "name": "PV637 - Sebonzakura -F- Edition (0+10) (3)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/main_3.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/partner_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/53d5ee26576c56ffecac09f82cb02bb511dd77ed.mp3"
+  },
+  {
+    "name": "PV637 - Sebonzakura -F- Edition (0+10) (4)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/main_4.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/partner_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/53d5ee26576c56ffecac09f82cb02bb511dd77ed.mp3"
+  },
+  {
+    "name": "PV637 - Sebonzakura -F- Edition (0+10) (5)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/main_5.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/partner_5.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/53d5ee26576c56ffecac09f82cb02bb511dd77ed.mp3"
+  },
+  {
+    "name": "PV637 - Sebonzakura -F- Edition (0+10) (6)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/main_6.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv637_sebonzakura_f_ed/partner_6.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/53d5ee26576c56ffecac09f82cb02bb511dd77ed.mp3"
+  },
+  {
+    "name": "PV638 - Tell Your World (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv638_tell_your_world_/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv638_tell_your_world_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/c3426bdb506efd8f34428f2111fc451923d4c645.mp3"
+  },
+  {
+    "name": "PV723 - 2D Dream Fever (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv723_2d_dream_fever_0/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv723_2d_dream_fever_0/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/f851aa63d3912b0be544e92681bf9bad3b9042e5.mp3"
+  },
+  {
+    "name": "PV725 - Pinky Swear (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv725_pinky_swear_0_10/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv725_pinky_swear_0_10/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/4803dddefd56a41b04203c3455951d927057375f.mp3"
+  },
+  {
+    "name": "PV729 - This is Happiness and Peace of Mind Committee (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv729_this_is_happines/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv729_this_is_happines/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/3bd86db232d386cd189d86f12d4b04aca1567c29.mp3"
+  },
+  {
+    "name": "PV730 - Hello Worker (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv730_hello_worker_0_1/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv730_hello_worker_0_1/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/0228b991b2bf0c9f16d8b16cf1d11ef4a535ef8b.mp3"
+  },
+  {
+    "name": "PV732 - Akatsuki Arrival (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv732_akatsuki_arrival/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv732_akatsuki_arrival/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/6082edf724c14874922a52da207e3004c79cd6d1.mp3"
+  },
+  {
+    "name": "PV732 - Akatsuki Arrival (0+10) (2)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv732_akatsuki_arrival/main_2.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv732_akatsuki_arrival/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/6082edf724c14874922a52da207e3004c79cd6d1.mp3"
+  },
+  {
+    "name": "PV736 - Two Breaths Walking",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv736_two_breaths_walk/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/24a8a42a51c2e2f0c30f69541a9a71d6a6251051.mp3"
+  },
+  {
+    "name": "PV738 - BlackJack (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv738_blackjack_0_10_/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv738_blackjack_0_10_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/1ec50f8b831180a3de569f5d5b7b80b7477dfed8.mp3"
+  },
+  {
+    "name": "PV739 - Decorator (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/379d06a90ab02b3ace1109b5885c147e9a320888.mp3"
+  },
+  {
+    "name": "PV739 - Decorator (0+10) (2)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/main_2.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/379d06a90ab02b3ace1109b5885c147e9a320888.mp3"
+  },
+  {
+    "name": "PV739 - Decorator (0+10) (3)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/main_3.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/partner_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/379d06a90ab02b3ace1109b5885c147e9a320888.mp3"
+  },
+  {
+    "name": "PV739 - Decorator (0+10) (4)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/main_4.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/partner_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/379d06a90ab02b3ace1109b5885c147e9a320888.mp3"
+  },
+  {
+    "name": "PV739 - Decorator (0+10) (5)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/main_5.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/partner_5.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/379d06a90ab02b3ace1109b5885c147e9a320888.mp3"
+  },
+  {
+    "name": "PV739 - Decorator (0+10) (6)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/main_6.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv739_decorator_0_10_/partner_6.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/379d06a90ab02b3ace1109b5885c147e9a320888.mp3"
+  },
+  {
+    "name": "PV832 - Hand in Hand",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv832_hand_in_hand/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/5c076a97f3fb71e5f604cba1dbe83e9fc3a5fead.mp3"
+  },
+  {
+    "name": "PV636 - 1／6 -out of the gravity- Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv636_1_6_out_of_the_g/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/ed442f77c6dfc1d2a4a35b239fbacab73efc81fb.mp3"
+  },
+  {
+    "name": "PV643 - PoPiPo (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv643_popipo_0_10_/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv643_popipo_0_10_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/11c807ae9aee11446ac8ece65378677198d4ba9e.mp3"
+  },
+  {
+    "name": "PV645 - Odds and Ends Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv645_odds_and_ends_li/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/1320d5e4ef1310587d7f6a442ecb13ca2c529ed2.mp3"
+  },
+  {
+    "name": "PV646 - Time Machine Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv646_time_machine_liv/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/0c7a9f527a2b578090f4f97592766671fdd214b9.mp3"
+  },
+  {
+    "name": "PV647 - 39 Live Mode",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv647_39_live_mode/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/16bb1e4bc7b7742241e368bf16f022641f7533a5.mp3"
+  },
+  {
+    "name": "PV702 - World is Mine (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv702_world_is_mine_0_/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv702_world_is_mine_0_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/33754f5c77fd12d7ced63d6984ca6caa31bd93f6.mp3"
+  },
+  {
+    "name": "PV703 - Packaged (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv703_packaged_0_10_/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv703_packaged_0_10_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions29/audio/9c9dbe606741de450cf83b11098e6aa173d3c42e.mp3"
+  },
+  {
+    "name": "PV704 - Miracle Paint (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv704_miracle_paint_0_/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv704_miracle_paint_0_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/f5e18e72f65c6408c2b04e94278e48a26d238860.mp3"
+  },
+  {
+    "name": "PV705 - Romeo and Cinderella (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv705_romeo_and_cinder/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv705_romeo_and_cinder/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/9a7b18b8441c2ce7ecb239ef485be107d6d7f298.mp3"
+  },
+  {
+    "name": "PV709 - Colorful x Melody (0+10)",
+    "group": "Creators",
+    "modelMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv709_colorful_x_melod/main.vmd",
+    "partnerMotionFile": "giants/flyingspirits_project_diva_motion_conver/pv709_colorful_x_melod/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions30/audio/8a6fe944120f3305144147ebe1b95d544fda1b9e.mp3"
+  }
+]
